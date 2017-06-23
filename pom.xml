@@ -426,7 +426,7 @@
 			</snapshots>
 		</repository>
 	</repositories>
-	<build>
+	<build> 
 		<resources>
 			<resource>
 				<directory>src/main/java</directory>
